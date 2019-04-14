@@ -1,0 +1,42 @@
+body{
+    font-family: Tahoma, Arial;
+     
+}
+
+nav{
+    width: auto;
+    margin: auto;
+}
+
+nav ul{
+    list-style-type: none;
+    
+    padding: 0px;
+    text-align: center;
+}
+
+nav li  {
+
+    
+    width: 150px; 
+    
+    display: inline-block;
+}
+
+nav a{ 
+
+     border: 1px solid black; 
+    background-color: beige;
+    
+    text-decoration: none;
+    color: black;
+    display: block; 
+    
+    padding: 5px;
+}
+
+nav a:hover
+{
+    
+    background-color: orange;
+}
