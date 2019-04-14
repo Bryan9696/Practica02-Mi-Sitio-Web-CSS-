@@ -1,21 +1,13 @@
-#wap{
-    width: 90%;
-    margin: auto;
-    
-}
 
-#bienvenidos{
-    margin-top: 100%;
-    text-align: center;
-}
 
-#contenedor-columnas{
-    width: 100%;
-    margin: auto;
-}
-
-#columnax3{
-    width: 33.333%;
+#one {
     float: left;
-    
+    width: 50%;
+}
+#two {
+    float: right;
+    width: 50%;
+}
+#encabezado {
+    text-align: center;
 }
