@@ -2,12 +2,18 @@
 
 #one {
     float: left;
-    width: 50%;
+    width: 30%;
+    
 }
 #two {
     float: right;
-    width: 50%;
+    width: 70%;
 }
 #encabezado {
     text-align: center;
+}
+
+#pie {
+     clear: both;
+   
 }
