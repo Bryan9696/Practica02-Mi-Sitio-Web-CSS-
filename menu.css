@@ -11,13 +11,11 @@ nav{
 nav ul{
     list-style-type: none;
     
-    padding: 0px;
+    padding: 5px;
     text-align: center;
 }
 
 nav li  {
-
-    
     width: 150px; 
     
     display: inline-block;
@@ -39,4 +37,15 @@ nav a:hover
 {
     
     background-color: orange;
+}
+@media screen and (max-width: 600px){
+    
+    nav{
+        width: auto;
+    }
+    nav li{
+        width: auto;
+        display: block;
+        margin: auto auto 5px auto;
+    }
 }
