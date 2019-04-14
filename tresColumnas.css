@@ -1,0 +1,38 @@
+#todo {
+   width:700px;  
+}
+
+#one, #tree {
+   width:350px;  
+}
+
+#two {  	
+   width:470px;  
+}
+
+
+#one {
+    float: left;    
+}
+
+
+#two{
+     margin-left: 360px;
+}
+
+
+#three {
+    float: right;
+     margin-left: 300px
+}
+
+
+#encabezado {
+    text-align: center;
+}
+
+#pie {
+     clear: both;
+   
+}
+
