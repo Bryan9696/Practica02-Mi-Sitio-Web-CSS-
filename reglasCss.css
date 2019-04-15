@@ -15,33 +15,18 @@ h4, h5 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h6{
-      color: #327B7C;
-    font-size: 30px;
-  font-weight: normal;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-h7{
-    
-     color: #7C3832;
-    font-size: 30px;
-  font-weight: normal;
-  font-family: Arial, Helvetica, sans-serif; 
-}
-
-h8{
-    
-      color: #D14354;
-    font-size: 30px;
-  font-weight: normal;
-  font-family: Arial, Helvetica, sans-serif;
-}
 
 
-
-
- p.destacado{color: #327B7C}
+/**selector de clase */
 .error{font-size: 15px;}
 .especial{font-weight: bold;}
 #ppp{color:#327B7C;}
+
+
+
+/**selector de id*/
+#destacado { color: #7C3832; }
+
+
+/**selector descentente*/
+p span { color:  #D14354; }
