@@ -30,3 +30,9 @@ h4, h5 {
 
 /**selector descentente*/
 p span { color:  #D14354; }
+
+a:active {
+color:#999;
+}
+
+
