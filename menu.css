@@ -17,8 +17,9 @@ nav ul{
 
 nav li  {
     width: 150px; 
+    padding: 5px;
     
-    display: inline-block;
+   
 }
 
 nav a{ 

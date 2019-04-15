@@ -1,0 +1,39 @@
+
+/**selector por etiqueta**/
+
+h1, h2, h3 {
+  color: #8A8E27;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h4, h5 {
+  color: #FFBD33;
+    font-size: 30px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
+      color: #327B7C;
+    font-size: 30px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h7{
+    
+     color: #7C3832;
+    font-size: 30px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+
+h8{
+    
+      color: #D14354;
+    font-size: 30px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}

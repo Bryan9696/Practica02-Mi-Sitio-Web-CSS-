@@ -3,17 +3,27 @@
 #one {
     float: left;
     width: 30%;
+    background-color: floralwhite;
     
 }
 #two {
     float: right;
     width: 70%;
+    
+    background-color: floralwhite;
 }
 #encabezado {
     text-align: center;
+    
+    background-color: floralwhite;
 }
 
 #pie {
      clear: both;
    
+}
+img {
+    float: left;
+    margin-right: 10px;
+     
 }
